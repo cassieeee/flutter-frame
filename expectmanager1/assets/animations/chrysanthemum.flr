@@ -1,0 +1,3807 @@
+{
+	"version": 21,
+	"artboards": [
+		{
+			"name": "Artboard",
+			"translation": [
+				0,
+				0
+			],
+			"width": 200,
+			"height": 200,
+			"origin": [
+				0,
+				0
+			],
+			"clipContents": true,
+			"color": [
+				0.364705890417099,
+				0.364705890417099,
+				0.364705890417099,
+				1
+			],
+			"nodes": [
+				{
+					"name": "未标题-2",
+					"translation": [
+						100,
+						100
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "Node",
+					"parent": 0,
+					"translation": [
+						0,
+						4.0021145396185667e-17
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"type": "node"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						0.3861083984375,
+						-84.94117736816406
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 1,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 2,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						0.011795060709118843,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						782.1925,
+						441
+					],
+					"end": [
+						800.1268,
+						441
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Rectangle",
+					"parent": 2,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 4,
+					"height": 30,
+					"cornerRadius": 0,
+					"type": "rectangle"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 2,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 5,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						745.709,
+						442.2914
+					],
+					"end": [
+						782.0028,
+						442.2914
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 5,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								789.8140258789062,
+								456.71600341796875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								785.875,
+								457.4110107421875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								780.666015625,
+								427.86700439453125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								784.60498046875,
+								427.1719970703125
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 3,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 8,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						711.1612,
+						446.1261
+					],
+					"end": [
+						762.4294,
+						446.1261
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 8,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								777.93798828125,
+								459.5369873046875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								774.1790161132812,
+								460.906005859375
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								763.9190063476562,
+								432.7149963378906
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								767.677001953125,
+								431.34698486328125
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 4,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 11,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						678.8583,
+						452.3878
+					],
+					"end": [
+						743.3008,
+						452.3878
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 11,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								766.7319946289062,
+								464.37799072265625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								763.2680053710938,
+								466.37799072265625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								748.2680053710938,
+								440.3970031738281
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								751.7319946289062,
+								438.3970031738281
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 5,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 14,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						649.2341,
+						460.8862
+					],
+					"end": [
+						726.0612,
+						460.8862
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 14,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								756.5369873046875,
+								471.09100341796875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								753.4730224609375,
+								473.6619873046875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								734.1890258789062,
+								450.6809997558594
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								737.2529907226562,
+								448.1099853515625
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 6,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 17,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						623.9762,
+						471.3631
+					],
+					"end": [
+						712.173,
+						471.3631
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 17,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								747.6619873046875,
+								479.4729919433594
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								745.0910034179688,
+								482.5369873046875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								722.1099853515625,
+								463.25299072265625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								724.6810302734375,
+								460.1889953613281
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 7,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 20,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						606.7717,
+						483.5
+					],
+					"end": [
+						703.3126,
+						483.5
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 20,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								740.3779907226562,
+								489.26800537109375
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								738.3779907226562,
+								492.73199462890625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								712.39697265625,
+								477.73199462890625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								714.39697265625,
+								474.26800537109375
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 8,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 23,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						594.3502,
+						496.9283
+					],
+					"end": [
+						699.4899,
+						496.9283
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 23,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								734.906005859375,
+								500.1789855957031
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								733.5369873046875,
+								503.93798828125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								705.3469848632812,
+								493.677001953125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								706.7150268554688,
+								489.91900634765625
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 9,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 26,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						586.7443,
+						511.2399
+					],
+					"end": [
+						701.3278,
+						511.2399
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 26,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								731.4110107421875,
+								511.875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								730.7160034179688,
+								515.8140258789062
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								701.1719970703125,
+								510.6050109863281
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								701.8670043945312,
+								506.6659851074219
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-84.6138916015625,
+						0.0588226318359375
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 10,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 29,
+					"opacity": 1,
+					"numColorStops": 3,
+					"colorStops": [
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						0.01769259199500084,
+						0.308381587266922,
+						0.5518050789833069,
+						0.9960784316062927,
+						1,
+						0.9848875999450684,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						583.7645,
+						526
+					],
+					"end": [
+						709.4733,
+						526
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Rectangle",
+					"parent": 29,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 30,
+					"height": 4,
+					"cornerRadius": 0,
+					"type": "rectangle"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 11,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 32,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						578.545,
+						540.7601
+					],
+					"end": [
+						725.2355,
+						540.7601
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 32,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								730.7160034179688,
+								536.1859741210938
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								731.4110107421875,
+								540.125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								701.8670043945312,
+								545.333984375
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								701.1719970703125,
+								541.39501953125
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 12,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 35,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						575.4902,
+						555.0717
+					],
+					"end": [
+						752.0977,
+						555.0717
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 35,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								733.5369873046875,
+								548.06201171875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								734.906005859375,
+								551.8209838867188
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								706.7150268554688,
+								562.0809936523438
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								705.3469848632812,
+								558.322998046875
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 13,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 38,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						570.6579,
+						568.5
+					],
+					"end": [
+						797.1954,
+						568.5
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 38,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								738.3779907226562,
+								559.2680053710938
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								740.3779907226562,
+								562.7319946289062
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								714.39697265625,
+								577.7319946289062
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								712.39697265625,
+								574.2680053710938
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 14,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 41,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						550.2695,
+						580.637
+					],
+					"end": [
+						886.8999,
+						580.637
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 41,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								745.0910034179688,
+								569.4630126953125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								747.6619873046875,
+								572.5269775390625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								724.6810302734375,
+								591.8109741210938
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								722.1099853515625,
+								588.7470092773438
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 15,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 44,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						566.7755,
+						591.1138
+					],
+					"end": [
+						1006.4711,
+						591.1138
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 44,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								753.4730224609375,
+								578.3380126953125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								756.5369873046875,
+								580.9089965820312
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								737.2529907226562,
+								603.8900146484375
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								734.1890258789062,
+								601.3189697265625
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 16,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 47,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						708.4724,
+						599.6122
+					],
+					"end": [
+						893.5055,
+						599.6122
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 47,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								763.2680053710938,
+								585.6220092773438
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								766.7319946289062,
+								587.6220092773438
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								751.7319946289062,
+								613.60302734375
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								748.2680053710938,
+								611.60302734375
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 17,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 50,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						758.5048,
+						605.8739
+					],
+					"end": [
+						854.7133,
+						605.8739
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 50,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								774.1790161132812,
+								591.093994140625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								777.93798828125,
+								592.4630126953125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								767.677001953125,
+								620.6530151367188
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								763.9190063476562,
+								619.2849731445312
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 18,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 53,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						785.1039,
+						609.7087
+					],
+					"end": [
+						833.9695,
+						609.7087
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 53,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								785.875,
+								594.5889892578125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								789.8140258789062,
+								595.2839965820312
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								784.60498046875,
+								624.8280029296875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								780.666015625,
+								624.1329956054688
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						0.3861083984375,
+						85.05882263183594
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 19,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 56,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						801.9771,
+						611
+					],
+					"end": [
+						819.9115,
+						611
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Rectangle",
+					"parent": 56,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 4,
+					"height": 30,
+					"cornerRadius": 0,
+					"type": "rectangle"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 20,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 59,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						822.255,
+						609.7087
+					],
+					"end": [
+						858.5487,
+						609.7087
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 59,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								810.1859741210938,
+								595.2839965820312
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								814.125,
+								594.5889892578125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								819.333984375,
+								624.1329956054688
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								815.39501953125,
+								624.8280029296875
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 21,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 62,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						843.585,
+						605.8739
+					],
+					"end": [
+						894.8533,
+						605.8739
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 62,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								822.06201171875,
+								592.4630126953125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								825.8209838867188,
+								591.093994140625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								836.0809936523438,
+								619.2849731445312
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								832.322998046875,
+								620.6530151367188
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 22,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 65,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						864.2592,
+						599.6122
+					],
+					"end": [
+						928.7017,
+						599.6122
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 65,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								833.2680053710938,
+								587.6220092773438
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								836.7319946289062,
+								585.6220092773438
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								851.7319946289062,
+								611.60302734375
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								848.2680053710938,
+								613.60302734375
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 23,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 68,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						882.9518,
+						591.1138
+					],
+					"end": [
+						959.7787,
+						591.1138
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 68,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								843.4630126953125,
+								580.9089965820312
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								846.5269775390625,
+								578.3380126953125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								865.8109741210938,
+								601.3189697265625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								862.7470092773438,
+								603.8900146484375
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 24,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 71,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						898.1738,
+						580.637
+					],
+					"end": [
+						986.3705,
+						580.637
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 71,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								852.3380126953125,
+								572.5269775390625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								854.9089965820312,
+								569.4630126953125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								877.8900146484375,
+								588.7470092773438
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								875.3189697265625,
+								591.8109741210938
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 25,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 74,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						908.013,
+						568.5
+					],
+					"end": [
+						1004.5539,
+						568.5
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 74,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								859.6220092773438,
+								562.7319946289062
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								861.6220092773438,
+								559.2680053710938
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								887.60302734375,
+								574.2680053710938
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								885.60302734375,
+								577.7319946289062
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 26,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 77,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						912.8445,
+						555.0717
+					],
+					"end": [
+						1017.9843,
+						555.0717
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 77,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								865.093994140625,
+								551.8209838867188
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								866.4630126953125,
+								548.06201171875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								894.6530151367188,
+								558.322998046875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								893.2849731445312,
+								562.0809936523438
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 27,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 80,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						912.1144,
+						540.7601
+					],
+					"end": [
+						1026.698,
+						540.7601
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 80,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								868.5889892578125,
+								540.125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								869.2839965820312,
+								536.1859741210938
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								898.8280029296875,
+								541.39501953125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								898.1329956054688,
+								545.333984375
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						85.3861083984375,
+						0.0588226318359375
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 28,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 83,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						905.2741,
+						526
+					],
+					"end": [
+						1030.9829,
+						526
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Rectangle",
+					"parent": 83,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"width": 30,
+					"height": 4,
+					"cornerRadius": 0,
+					"type": "rectangle"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 29,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 86,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						891.9734,
+						511.2399
+					],
+					"end": [
+						1038.6639,
+						511.2399
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 86,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								869.2839965820312,
+								515.8140258789062
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								868.5889892578125,
+								511.875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								898.1329956054688,
+								506.6659851074219
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								898.8280029296875,
+								510.6050109863281
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 30,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 89,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						868.6209,
+						496.9283
+					],
+					"end": [
+						1045.2284,
+						496.9283
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 89,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								866.4630126953125,
+								503.93798828125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								865.093994140625,
+								500.1789855957031
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								893.2849731445312,
+								489.91900634765625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								894.6530151367188,
+								493.677001953125
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 31,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 92,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						829.3807,
+						483.5
+					],
+					"end": [
+						1055.9181,
+						483.5
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 92,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								861.6220092773438,
+								492.73199462890625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								859.6220092773438,
+								489.26800537109375
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								885.60302734375,
+								474.26800537109375
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								887.60302734375,
+								477.73199462890625
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 32,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 95,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						752.5916,
+						471.3631
+					],
+					"end": [
+						1089.222,
+						471.3631
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 95,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								854.9089965820312,
+								482.5369873046875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								852.3380126953125,
+								479.4729919433594
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								875.3189697265625,
+								460.1889953613281
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								877.8900146484375,
+								463.25299072265625
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 33,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 98,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						645.1115,
+						460.8862
+					],
+					"end": [
+						1084.8071,
+						460.8862
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 98,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								846.5269775390625,
+								473.6619873046875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								843.4630126953125,
+								471.09100341796875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								862.7470092773438,
+								448.1099853515625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								865.8109741210938,
+								450.6809997558594
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 34,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 101,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						728.2015,
+						452.3878
+					],
+					"end": [
+						913.2347,
+						452.3878
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 101,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								836.7319946289062,
+								466.37799072265625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								833.2680053710938,
+								464.37799072265625
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								848.2680053710938,
+								438.3970031738281
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								851.7319946289062,
+								440.3970031738281
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 35,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 104,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						756.5733,
+						446.1261
+					],
+					"end": [
+						852.7819,
+						446.1261
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 104,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								825.8209838867188,
+								460.906005859375
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								822.06201171875,
+								459.5369873046875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								832.322998046875,
+								431.34698486328125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								836.0809936523438,
+								432.7149963378906
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				},
+				{
+					"name": "Shape",
+					"parent": 1,
+					"translation": [
+						-799.6136474609375,
+						-525.9412841796875
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"isVisible": true,
+					"blendMode": 3,
+					"drawOrder": 36,
+					"type": "shape"
+				},
+				{
+					"name": "Gradient Color",
+					"parent": 107,
+					"opacity": 1,
+					"numColorStops": 2,
+					"colorStops": [
+						0.21568627655506134,
+						0.7333333492279053,
+						0.9960784316062927,
+						1,
+						0,
+						0.30980393290519714,
+						0.5490196347236633,
+						0.9960784316062927,
+						1,
+						1
+					],
+					"start": [
+						771.7631,
+						442.2914
+					],
+					"end": [
+						820.6287,
+						442.2914
+					],
+					"fillRule": 1,
+					"type": "gradientFill"
+				},
+				{
+					"name": "Path",
+					"parent": 107,
+					"translation": [
+						0,
+						0
+					],
+					"rotation": 0,
+					"scale": [
+						1,
+						1
+					],
+					"opacity": 1,
+					"isCollapsed": false,
+					"clips": [],
+					"bones": [],
+					"isVisible": true,
+					"isClosed": true,
+					"points": [
+						{
+							"pointType": 0,
+							"translation": [
+								814.125,
+								457.4110107421875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								810.1859741210938,
+								456.71600341796875
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								815.39501953125,
+								427.1719970703125
+							],
+							"radius": 0
+						},
+						{
+							"pointType": 0,
+							"translation": [
+								819.333984375,
+								427.86700439453125
+							],
+							"radius": 0
+						}
+					],
+					"type": "path"
+				}
+			],
+			"animations": [
+				{
+					"name": "loading",
+					"fps": 60,
+					"duration": 1.2,
+					"isLooping": true,
+					"keyed": [
+						{
+							"component": 0,
+							"rotation": [
+								[
+									{
+										"time": 0,
+										"interpolatorType": 0,
+										"value": 0
+									},
+									{
+										"time": 0.03333333333333333,
+										"interpolatorType": 0,
+										"value": 0.17453292519943295
+									},
+									{
+										"time": 0.06666666666666667,
+										"interpolatorType": 0,
+										"value": 0.3490658503988659
+									},
+									{
+										"time": 0.1,
+										"interpolatorType": 0,
+										"value": 0.5235987755982988
+									},
+									{
+										"time": 0.13333333333333333,
+										"interpolatorType": 0,
+										"value": 0.6981317007977318
+									},
+									{
+										"time": 0.16666666666666666,
+										"interpolatorType": 0,
+										"value": 0.8726646259971648
+									},
+									{
+										"time": 0.2,
+										"interpolatorType": 0,
+										"value": 1.0471975511965976
+									},
+									{
+										"time": 0.23333333333333334,
+										"interpolatorType": 0,
+										"value": 1.2217304763960306
+									},
+									{
+										"time": 0.26666666666666666,
+										"interpolatorType": 0,
+										"value": 1.3962634015954636
+									},
+									{
+										"time": 0.3,
+										"interpolatorType": 0,
+										"value": 1.5707963267948966
+									},
+									{
+										"time": 0.3333333333333333,
+										"interpolatorType": 0,
+										"value": 1.7453292519943295
+									},
+									{
+										"time": 0.36666666666666664,
+										"interpolatorType": 0,
+										"value": 1.9198621771937625
+									},
+									{
+										"time": 0.4,
+										"interpolatorType": 0,
+										"value": 2.0943951023931953
+									},
+									{
+										"time": 0.43333333333333335,
+										"interpolatorType": 0,
+										"value": 2.2689280275926285
+									},
+									{
+										"time": 0.4666666666666667,
+										"interpolatorType": 0,
+										"value": 2.443460952792061
+									},
+									{
+										"time": 0.5,
+										"interpolatorType": 0,
+										"value": 2.6179938779914944
+									},
+									{
+										"time": 0.5333333333333333,
+										"interpolatorType": 0,
+										"value": 2.792526803190927
+									},
+									{
+										"time": 0.5666666666666667,
+										"interpolatorType": 0,
+										"value": 2.96705972839036
+									},
+									{
+										"time": 0.6,
+										"interpolatorType": 0,
+										"value": 3.141592653589793
+									},
+									{
+										"time": 0.6333333333333333,
+										"interpolatorType": 0,
+										"value": 3.3161255787892263
+									},
+									{
+										"time": 0.6666666666666666,
+										"interpolatorType": 0,
+										"value": 3.490658503988659
+									},
+									{
+										"time": 0.7,
+										"interpolatorType": 0,
+										"value": 3.6651914291880923
+									},
+									{
+										"time": 0.7333333333333333,
+										"interpolatorType": 0,
+										"value": 3.839724354387525
+									},
+									{
+										"time": 0.7666666666666667,
+										"interpolatorType": 0,
+										"value": 4.014257279586958
+									},
+									{
+										"time": 0.8,
+										"interpolatorType": 0,
+										"value": 4.1887902047863905
+									},
+									{
+										"time": 0.8333333333333334,
+										"interpolatorType": 0,
+										"value": 4.363323129985823
+									},
+									{
+										"time": 0.8666666666666667,
+										"interpolatorType": 0,
+										"value": 4.537856055185257
+									},
+									{
+										"time": 0.9,
+										"interpolatorType": 0,
+										"value": 4.71238898038469
+									},
+									{
+										"time": 0.9333333333333333,
+										"interpolatorType": 0,
+										"value": 4.886921905584122
+									},
+									{
+										"time": 0.9666666666666667,
+										"interpolatorType": 0,
+										"value": 5.061454830783556
+									},
+									{
+										"time": 1,
+										"interpolatorType": 0,
+										"value": 5.235987755982989
+									},
+									{
+										"time": 1.0333333333333334,
+										"interpolatorType": 0,
+										"value": 5.410520681182422
+									},
+									{
+										"time": 1.0666666666666667,
+										"interpolatorType": 0,
+										"value": 5.585053606381854
+									},
+									{
+										"time": 1.1,
+										"interpolatorType": 0,
+										"value": 5.759586531581287
+									},
+									{
+										"time": 1.1333333333333333,
+										"interpolatorType": 0,
+										"value": 5.93411945678072
+									},
+									{
+										"time": 1.1666666666666667,
+										"interpolatorType": 0,
+										"value": 6.1086523819801535
+									},
+									{
+										"time": 1.2,
+										"interpolatorType": 0,
+										"value": 6.283185307179586
+									}
+								]
+							]
+						}
+					],
+					"animationStart": 0,
+					"animationEnd": 1.2,
+					"type": "animation"
+				}
+			],
+			"type": "artboard"
+		}
+	]
+}
